@@ -1,0 +1,44 @@
+
+
+h2 {
+    font-family: 'Tahoma' !important;
+     font-size:40px;           /* Tamaño de fuente */
+      text-align: center;
+    
+      color: #00c1c1;
+}
+p { 
+      font-family: 'Tahoma' !important;
+     font-size:20px;           /* Tamaño de fuente */
+      text-align: justify;
+      color: #000000;
+    }
+
+ul {
+      font-family: 'Tahoma'!important;
+     font-size:20px;           /* Tamaño de fuente */
+      text-align: left;
+      color: #000000;
+    }
+
+div {
+      font-family: 'Tahoma' !important;
+     font-size:20px;           /* Tamaño de fuente */
+      text-align: center;
+      color: #000000;
+    }
+
+.container {
+    display: flex; /* coloca los elementos en fila */
+    align-items: center; /* alinea verticalmente */
+    gap: 20px; /* espacio entre imagen y texto */
+  }
+
+  .container img {
+    width: 600px; /* ajusta el tamaño de la imagen */
+    border-radius: 10px; /* opcional: bordes redondeados */
+  }
+
+  .texto {
+    max-width: 500px; /* evita que el texto se expanda demasiado */
+  }

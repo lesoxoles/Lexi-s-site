@@ -1,0 +1,32 @@
+
+body {
+  background-color: rgb(223, 255, 254)
+}
+
+
+
+
+
+h1 {
+      margin: 0;
+      font-family: 'Tahoma' !important;
+ font-size: 100px !important;           /* Tamaño de fuente */
+      text-align: center !important;
+      background-color: #00c1c1 !important;
+      padding: 50px !important;
+      color: #ffffff !important;
+    
+    }
+
+
+
+footer {
+      
+      font-family: 'Tahoma' !important;
+ font-size: 100px!important;          /* Tamaño de fuente */
+      text-align: center !important;
+      background-color: #00c1c1 !important;
+      padding: 10px !important;
+      color: #ffffff !important;
+    
+    }
