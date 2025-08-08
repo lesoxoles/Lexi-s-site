@@ -1,0 +1,39 @@
+/* Estilo de la barra de navegación en blanco con contorno aqua */
+.navbar {
+ 
+  padding: 20px; /* Para que no esté pegada a los lados */
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: right;
+  font-family: 'Tahoma';
+  font-weight: bold; /* Fixed: corrected 'font' to 'font-weight' */
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin: 0 15px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #00c1c1;
+  transition: color 0.3s;
+}
+
+.navbar a:hover {
+  color: #007676; /* Un aqua más oscuro al pasar el mouse */
+}
+
+
+
+
+
+
+
+
+
+
